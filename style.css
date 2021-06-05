@@ -1,0 +1,17 @@
+body {
+    background-size: cover;
+}
+canvas {
+    box-shadow:5px 5px 10px darkgray;
+    border-radius: 20px;
+    margin-top:30px;
+}
+.heading {
+    width:100%;
+    margin-top:0;
+    font-size:23px !important;
+    font-weight: bold !important;
+}
+#status , #number{
+    font-size:18px !important;
+}
